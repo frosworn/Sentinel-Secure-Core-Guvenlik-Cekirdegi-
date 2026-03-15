@@ -1,0 +1,4 @@
+requests
+pyautogui
+psutil
+python-dotenv

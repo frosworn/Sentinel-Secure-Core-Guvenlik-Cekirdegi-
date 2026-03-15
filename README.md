@@ -17,7 +17,7 @@ Bu proje, belirlediğiniz bir telefonun Wi-Fi ağından ayrılması veya bilgisa
 
 1.  **Projeyi klonlayın veya indirin:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/frosworn/Sentinel-Secure-Core-Guvenlik-Cekirdegi-
     cd KORUMA
     ```
 
